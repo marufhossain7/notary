@@ -216,7 +216,8 @@ header{
 }
 
 .icons div{
-	width: 28%;
+    width: 28%;
+    height: 250px;
     text-align: center;
     box-shadow: 1px 1px 3px grey;
     margin: 1.3%;
