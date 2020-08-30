@@ -225,3 +225,23 @@ header{
     float: left;
 }
 /*features end*/
+/*see all features start*/
+.all_features{
+	text-align: center;
+	margin-bottom: 80px;
+}
+.all_features button{
+	width: 11%;
+    height: 39px;
+    border: 1px solid black;
+    color: red;
+    background-color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+.all_features button:hover {
+	background-color: #da2828;
+	color: white;
+	transition: 1s;
+}
+/*see all features end*/
